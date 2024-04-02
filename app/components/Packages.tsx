@@ -15,7 +15,7 @@ const Packages = () => {
                 <img src="./images/rightimage1.svg" alt="" className='absolute  top-0 right-0 z-10' />
 
             </div>
-            <div className='z-30 relative flex flex-wrap gap-5 justify-center lg:space-x-10 mt-10'>
+            <div className='z-30 relative flex flex-wrap gap-10 justify-center mt-10'>
                 <div className='border-2 border-white w-[313px] rounded-3xl p-5 '>
                     <h1 className='text-center font-bold text-[32px] mb-10'>STARTER</h1>
                     <div className='flex justify-center text-[25px]'>
