@@ -2,7 +2,7 @@ import React from 'react'
 
 const Navbar = () => {
   return (
-    <nav className='max-w-[1440px] mx-auto py-5'>
+    <nav className='max-w-[1440px] mx-auto py-5 text-white bg-black'>
         <div className='flex justify-between items-center'>
             <img src="./images/artlineslogo.png" alt="" />
             <ul className='lg:flex justify-between space-x-5 text-[20px] font-semibold hidden'>

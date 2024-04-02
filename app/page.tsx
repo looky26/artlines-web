@@ -5,7 +5,7 @@ import FrequentlyAskQuestions from "./components/FrequentlyAskQuestions";
 
 export default function Home() {
   return (
-    <main>
+    <main className="text-white bg-black">
       <Banner/>
       <Packages/>
       <FrequentlyAskQuestions/>
